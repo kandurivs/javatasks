@@ -19,4 +19,7 @@ class A {
 
 
 
+
+	new test fot git
+
 }
